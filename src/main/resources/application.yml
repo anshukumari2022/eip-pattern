@@ -1,0 +1,4 @@
+server:
+  servlet:
+    context-path: /eip-pattern
+  port: 8088
